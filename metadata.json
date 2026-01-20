@@ -1,0 +1,5 @@
+{
+  "name": "smart Blogging system",
+  "description": "A production-grade blogging platform with role-based access control, AI-powered content generation, and advanced analytics.",
+  "requestFramePermissions": []
+}
